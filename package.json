@@ -37,6 +37,9 @@
     ]
   },
   "devDependencies": {
-    "netlify-cli": "^3.38.10"
+    "netlify-cli": "^11.7.1"
+  },
+  "volta": {
+    "node": "16.17.0"
   }
 }
